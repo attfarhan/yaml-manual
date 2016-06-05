@@ -39,3 +39,5 @@ matrix:
 exclude:
 
 go_import_path:
+
+include:
