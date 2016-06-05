@@ -1,41 +1,41 @@
-language
+language:
 
-before_install
+before_install:
 
-install
+install:
 
-before_script
+before_script:
 
-script
+script:
 
-after_success
+after_success:
 
-after_failure
+after_failure:
 
-before_deploy
+before_deploy:
 
-deploy
+deploy:
 
-after_deploy
+after_deploy:
 
-git
+git:
 
-depth
+depth:
 
-branches
+branches:
 
-except
+except:
 
-only
+only:
 
-rvm
+rvm:
 
-gemfile
+gemfile:
 
-env
+env:
 
-matrix
+matrix:
 
-exclude
+exclude:
 
-go_import_path
+go_import_path:
